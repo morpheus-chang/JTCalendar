@@ -1,4 +1,4 @@
-JTCalendar
+VxiaCalendar
 ==========
 
 ![Version](https://img.shields.io/cocoapods/v/JTCalendar.svg)
